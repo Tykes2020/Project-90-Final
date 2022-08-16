@@ -1,0 +1,111 @@
+body
+
+{
+
+	background: aquamarine;
+
+}
+
+.login_div1 , .login_div2
+
+	{
+
+		background: rgb(16, 218, 100);
+
+		padding: 10px;
+
+		float: none;
+
+		border-radius: 15px;
+
+	}
+
+#player1_name , #player2_name
+
+{
+
+	display: inline-block;
+
+	margin-left: 20px;
+
+    font-size: 20px;
+
+    text-align: center;
+
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#title
+
+{
+
+    font-size: 40px;
+
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#player1_score , #player2_score
+
+{
+
+    font-size: 20px;
+
+}
+
+#number1 , #number2
+
+{
+
+    background-color: rgba(255, 255, 255, 0.817);
+
+    font-size: 20px;
+
+    text-align: center;
+
+}
+
+h4
+
+{
+
+    font-size: 29px;
+
+}
+
+#word
+
+{
+
+	width: 60%;
+
+}
+
+#word_display
+
+{
+
+	letter-spacing: 5px;
+
+}
+
+#output
+
+{
+
+background: rgb(135, 89, 243);
+
+border-radius: 10px;
+
+border-top: 10px solid #AA4465;
+
+padding: 10px;
+
+height: 200px;
+
+float: none;
+
+text-align: left;
+
+}
